@@ -1,0 +1,12 @@
+ Understanding The File System Tree
+ 理解文件系统树
+
+ Like Windows, a Unix-like operating system such as Linux organizes its files in what is called a hierarchical directory structure. This means that they are organized in a tree-like pattern of directories (sometimes called folders in other systems), which may contain files and other directories. The first directory in the file system is called the root directory. The root directory contains files and subdirectories, which contain more files and subdirectories and so on and so on.
+ 1 chapter 章节
+ 2 current 当前
+ 3 organize 组织
+ 4 hierarchical 分层的
+ 5 structure 构造
+ 6 folders 文件夹
+ 7 subdirectories 子目录
+
